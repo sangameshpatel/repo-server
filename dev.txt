@@ -1,0 +1,7 @@
+devops
+aws
+gcp
+git
+docker
+ansible
+
